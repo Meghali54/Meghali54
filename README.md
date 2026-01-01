@@ -15,8 +15,9 @@
 ### ⚡ GitHub Stats
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meghali54&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meghali54&layout=compact&theme=tokyonight)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Meghali54&theme=react-dark"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Meghali54&theme=transparent"/>
+
 
 </div>
 
