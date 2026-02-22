@@ -60,7 +60,7 @@ I enjoy designing clean system architectures, writing maintainable code, and con
 **Project 2: Backend & CI/CD Systems (Code Grills)**
 * **Role:** Backend Development Intern
 * **Duration:** Apr 2025 – Jun 2025
-* **Domain:** Backend Infrastructure | DevOps
+* **Domain:** Backend Infrastructure
 
 **Key Contributions**
 * Designed scalable backend systems using **Flask & MongoDB**.
@@ -86,7 +86,7 @@ I enjoy designing clean system architectures, writing maintainable code, and con
 * **Link:** [Job Authenticity Checker](https://job-appenticity-checker.streamlit.app)
 
 **AI-Powered Interview Prep Website**
-* **Domain:** EdTech | Generative AI
+* **Domain:** EdTech
 * **Key Contributions:** Built a platform using **Next.js + OpenAI** for coding prep, behavioral training, and AI-driven resume review.
 * **Impact:** Offers interactive problem-solving and personalized feedback for career growth.
 * **Link:** [Interview Prep App](https://interview-ashy-zeta.vercel.app)
