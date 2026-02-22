@@ -1,4 +1,4 @@
-# Hi there, I'm Meghali Dutta 👋
+# Hi there, I'm Meghali Dutta
 
 ### 📊 Profile Metrics
 ![Profile Views](https://komarev.com/ghpvc/?username=Meghali54&color=blueviolet)
