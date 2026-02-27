@@ -118,7 +118,7 @@ I enjoy designing clean system architectures, writing maintainable code, and con
 
 ---
 
-### ** GitHub Activity**
+###  GitHub Activity
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Meghali54&theme=react-dark" width="100%"/>
 <br>
